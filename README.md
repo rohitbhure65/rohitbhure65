@@ -23,6 +23,6 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/rohitbhure65">
-    <img src="https://skillicons.dev/icons?i=c,cpp,html,css,tailwind,sass,bootstrap,js,ts,php,mysql,mongodb,linux,bash,git,github,react,cypress,express,nodejs,nextjs,python,vscode,postman,powershell,kubernetes,docker,jenkins,wordpress,figma,supabase,photoshop,illustrator,autocad,debian,discord,vercel,vite&theme=dark&perline=15" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,html,css,tailwind,sass,bootstrap,js,ts,php,mysql,mongodb,linux,bash,git,github,react,cypress,express,nodejs,nextjs,python,vscode,postman,powershell,kubernetes,docker,jenkins,wordpress,figma,supabase,photoshop,illustrator,autocad,debian,discord,vercel,vite,flutter&theme=dark&perline=15" />
   </a>
 </p>
