@@ -12,17 +12,12 @@ _Learning, building, and contributing one commit at a time 🚀_
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rohitbhure65)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rohitbhure65)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rohitbhure65@gmail.com)
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://rohitbhure65.vercel.app)
 
 </div>
 
 ---
 
 ## 🏆 Achievements & Milestones
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=rohitbhure65&theme=radical&no-frame=false&column=3&columngap=10&rank=SSS,SS,S,AAA,AA,A,B,C" width="100%" alt="trophy"/>
-</p>
 
 <div align="center">
 
