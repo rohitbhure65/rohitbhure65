@@ -80,13 +80,3 @@ _Learning, building, and contributing one commit at a time 🚀_
 - ⚡ Fun fact: I code better with lo-fi beats 🎧
 
 ---
-
-<div align="center">
-
-### 📈 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=rohitbhure65&streak-static=false&theme=react&border_radius=10&disable_animations=false)
-
-</div>
-
----
